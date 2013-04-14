@@ -1,0 +1,10 @@
+History: 2013-04-14
+
+I just got TortoiseGit and am trying it out.
+
+Followed this great series of tutorials:
+
+1) http://uncod.in/blog/installing-msysgit-on-windows7/
+2) http://uncod.in/blog/installing-tortoisegit-on-windows7/
+3) http://uncod.in/blog/setting-up-a-github-account-on-windows7/
+4) http://uncod.in/blog/github-tortoisegit-and-organizational-workflow-tutorial/
